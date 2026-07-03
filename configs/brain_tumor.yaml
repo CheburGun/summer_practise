@@ -1,0 +1,10 @@
+# Корневой путь от папки запуска (корня проекта)
+path: ./data/raw/brain-tumor
+train: images/train
+val: images/val
+
+# Классы
+nc: 2
+names:
+  0: negative
+  1: positive
